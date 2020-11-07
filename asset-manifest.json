@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/emoji-monster-creator/static/js/main.f133dc2a.chunk.js",
-    "main.js.map": "/emoji-monster-creator/static/js/main.f133dc2a.chunk.js.map",
-    "runtime-main.js": "/emoji-monster-creator/static/js/runtime-main.51db2ced.js",
-    "runtime-main.js.map": "/emoji-monster-creator/static/js/runtime-main.51db2ced.js.map",
-    "static/js/2.6801870c.chunk.js": "/emoji-monster-creator/static/js/2.6801870c.chunk.js",
-    "static/js/2.6801870c.chunk.js.map": "/emoji-monster-creator/static/js/2.6801870c.chunk.js.map",
-    "static/js/3.2b3cb534.chunk.js": "/emoji-monster-creator/static/js/3.2b3cb534.chunk.js",
-    "static/js/3.2b3cb534.chunk.js.map": "/emoji-monster-creator/static/js/3.2b3cb534.chunk.js.map",
+    "main.js": "/emoji-monster-creator/static/js/main.a88c69a3.chunk.js",
+    "main.js.map": "/emoji-monster-creator/static/js/main.a88c69a3.chunk.js.map",
+    "runtime-main.js": "/emoji-monster-creator/static/js/runtime-main.12fd31cd.js",
+    "runtime-main.js.map": "/emoji-monster-creator/static/js/runtime-main.12fd31cd.js.map",
+    "static/js/2.d438a0e9.chunk.js": "/emoji-monster-creator/static/js/2.d438a0e9.chunk.js",
+    "static/js/2.d438a0e9.chunk.js.map": "/emoji-monster-creator/static/js/2.d438a0e9.chunk.js.map",
+    "static/js/3.e3458d41.chunk.js": "/emoji-monster-creator/static/js/3.e3458d41.chunk.js",
+    "static/js/3.e3458d41.chunk.js.map": "/emoji-monster-creator/static/js/3.e3458d41.chunk.js.map",
     "index.html": "/emoji-monster-creator/index.html",
-    "static/js/2.6801870c.chunk.js.LICENSE.txt": "/emoji-monster-creator/static/js/2.6801870c.chunk.js.LICENSE.txt",
+    "static/js/2.d438a0e9.chunk.js.LICENSE.txt": "/emoji-monster-creator/static/js/2.d438a0e9.chunk.js.LICENSE.txt",
     "static/media/emoji-body.4952d68b.webp": "/emoji-monster-creator/static/media/emoji-body.4952d68b.webp"
   },
   "entrypoints": [
-    "static/js/runtime-main.51db2ced.js",
-    "static/js/2.6801870c.chunk.js",
-    "static/js/main.f133dc2a.chunk.js"
+    "static/js/runtime-main.12fd31cd.js",
+    "static/js/2.d438a0e9.chunk.js",
+    "static/js/main.a88c69a3.chunk.js"
   ]
 }
